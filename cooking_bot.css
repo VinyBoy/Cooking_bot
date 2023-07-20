@@ -1,0 +1,27 @@
+<style>
+#my-form {
+    text-align: center;
+}
+ 
+.form-input {
+    width: 30%;
+    height: 50px;
+    margin: 5px;
+    font-size: 14px;
+    background-color: #454654;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#submit-btn {
+    display: block;
+    text-align: center;
+    width: 40%;
+    height: 50px;
+    margin: 15px auto;
+    background-color: #343541;
+    color: white;
+    border-radius: 5px;
+}
+</style>
